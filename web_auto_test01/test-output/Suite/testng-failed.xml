@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.lemon.listener.TestResultListener"/>
+    <listener class-name="com.lemon.listener.RetryListener"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.lemon.testcase.LoginTest">
+        <methods>
+          <include name="loginFail01" invocation-numbers="0 0 0 1 1 1"/>
+          <include name="tearDownTest"/>
+          <include name="setUpTest"/>
+          <include name="loginFail02" invocation-numbers="0 0 0"/>
+        </methods>
+      </class> <!-- com.lemon.testcase.LoginTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

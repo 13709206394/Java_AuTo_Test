@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-07-11T13:32:11 CST" name="Suite" finished-at="2020-07-11T13:37:27 CST" duration-ms="315772">
+    <groups>
+    </groups>
+    <test started-at="2020-07-11T13:32:11 CST" name="Test" finished-at="2020-07-11T13:37:27 CST" duration-ms="315772">
+      <class name="com.lemon.testcase.LoginTest">
+        <test-method is-config="true" signature="setUpTest()[pri:0, instance:com.lemon.testcase.LoginTest@7bde1f3a]" started-at="2020-07-11T13:32:11 CST" name="setUpTest" finished-at="2020-07-11T13:32:29 CST" duration-ms="17102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method signature="forgetPhone()[pri:0, instance:com.lemon.testcase.LoginTest@7bde1f3a]" started-at="2020-07-11T13:32:29 CST" name="forgetPhone" finished-at="2020-07-11T13:33:15 CST" duration-ms="45728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgetPhone -->
+        <test-method is-config="true" signature="tearDownTest()[pri:0, instance:com.lemon.testcase.LoginTest@7bde1f3a]" started-at="2020-07-11T13:33:15 CST" name="tearDownTest" finished-at="2020-07-11T13:33:16 CST" duration-ms="1154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+        <test-method is-config="true" signature="setUpTest()[pri:0, instance:com.lemon.testcase.LoginTest@7bde1f3a]" started-at="2020-07-11T13:33:16 CST" name="setUpTest" finished-at="2020-07-11T13:33:28 CST" duration-ms="12265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method signature="loginFail01(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.lemon.testcase.LoginTest@7bde1f3a]" started-at="2020-07-11T13:33:28 CST" name="loginFail01" data-provider="getLoginFailDatas01" finished-at="2020-07-11T13:33:29 CST" duration-ms="1167" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[15859019266]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[此账号没有经过授权，请联系管理员!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFail01 -->
+        <test-method is-config="true" signature="tearDownTest()[pri:0, instance:com.lemon.testcase.LoginTest@7bde1f3a]" started-at="2020-07-11T13:33:29 CST" name="tearDownTest" finished-at="2020-07-11T13:33:30 CST" duration-ms="1136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+        <test-method is-config="true" signature="setUpTest()[pri:0, instance:com.lemon.testcase.LoginTest@7bde1f3a]" started-at="2020-07-11T13:33:30 CST" name="setUpTest" finished-at="2020-07-11T13:33:44 CST" duration-ms="13881" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method signature="loginFail01(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.lemon.testcase.LoginTest@7bde1f3a]" started-at="2020-07-11T13:33:44 CST" name="loginFail01" data-provider="getLoginFailDatas01" finished-at="2020-07-11T13:33:46 CST" duration-ms="1320" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[13709206394]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[LEMON666]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[帐号或密码错误!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFail01 -->
+        <test-method is-config="true" signature="tearDownTest()[pri:0, instance:com.lemon.testcase.LoginTest@7bde1f3a]" started-at="2020-07-11T13:33:46 CST" name="tearDownTest" finished-at="2020-07-11T13:33:47 CST" duration-ms="1157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+        <test-method is-config="true" signature="setUpTest()[pri:0, instance:com.lemon.testcase.LoginTest@7bde1f3a]" started-at="2020-07-11T13:33:47 CST" name="setUpTest" finished-at="2020-07-11T13:34:14 CST" duration-ms="27165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method signature="loginFail01(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.lemon.testcase.LoginTest@7bde1f3a]" started-at="2020-07-11T13:34:14 CST" name="loginFail01" data-provider="getLoginFailDatas01" finished-at="2020-07-11T13:34:15 CST" duration-ms="1176" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[13709206394]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ab%123467]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[帐号或密码错误!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFail01 -->
+        <test-method is-config="true" signature="tearDownTest()[pri:0, instance:com.lemon.testcase.LoginTest@7bde1f3a]" started-at="2020-07-11T13:34:15 CST" name="tearDownTest" finished-at="2020-07-11T13:34:16 CST" duration-ms="655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+        <test-method is-config="true" signature="setUpTest()[pri:0, instance:com.lemon.testcase.LoginTest@7bde1f3a]" started-at="2020-07-11T13:34:16 CST" name="setUpTest" finished-at="2020-07-11T13:34:28 CST" duration-ms="12346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method signature="loginFail01(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.lemon.testcase.LoginTest@7bde1f3a]" started-at="2020-07-11T13:34:28 CST" name="loginFail01" data-provider="getLoginFailDatas01" finished-at="2020-07-11T13:34:29 CST" duration-ms="1137" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[13709206394]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ab%1234]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[帐号或密码错误!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFail01 -->
+        <test-method is-config="true" signature="tearDownTest()[pri:0, instance:com.lemon.testcase.LoginTest@7bde1f3a]" started-at="2020-07-11T13:34:29 CST" name="tearDownTest" finished-at="2020-07-11T13:34:30 CST" duration-ms="637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+        <test-method is-config="true" signature="setUpTest()[pri:0, instance:com.lemon.testcase.LoginTest@7bde1f3a]" started-at="2020-07-11T13:34:30 CST" name="setUpTest" finished-at="2020-07-11T13:34:43 CST" duration-ms="12649" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method signature="loginFail01(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.lemon.testcase.LoginTest@7bde1f3a]" started-at="2020-07-11T13:34:43 CST" name="loginFail01" data-provider="getLoginFailDatas01" finished-at="2020-07-11T13:34:44 CST" duration-ms="1137" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[13709206394]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ab%1 234]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[帐号或密码错误!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFail01 -->
+        <test-method is-config="true" signature="tearDownTest()[pri:0, instance:com.lemon.testcase.LoginTest@7bde1f3a]" started-at="2020-07-11T13:34:44 CST" name="tearDownTest" finished-at="2020-07-11T13:34:45 CST" duration-ms="1113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+        <test-method is-config="true" signature="setUpTest()[pri:0, instance:com.lemon.testcase.LoginTest@7bde1f3a]" started-at="2020-07-11T13:34:45 CST" name="setUpTest" finished-at="2020-07-11T13:35:01 CST" duration-ms="16061" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method signature="loginFail02(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.lemon.testcase.LoginTest@7bde1f3a]" started-at="2020-07-11T13:35:01 CST" name="loginFail02" data-provider="getLoginFailDatas02" finished-at="2020-07-11T13:35:02 CST" duration-ms="603" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ab%12345]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[请输入手机号]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFail02 -->
+        <test-method is-config="true" signature="tearDownTest()[pri:0, instance:com.lemon.testcase.LoginTest@7bde1f3a]" started-at="2020-07-11T13:35:02 CST" name="tearDownTest" finished-at="2020-07-11T13:35:03 CST" duration-ms="1147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+        <test-method is-config="true" signature="setUpTest()[pri:0, instance:com.lemon.testcase.LoginTest@7bde1f3a]" started-at="2020-07-11T13:35:03 CST" name="setUpTest" finished-at="2020-07-11T13:35:22 CST" duration-ms="19324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method signature="loginFail02(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.lemon.testcase.LoginTest@7bde1f3a]" started-at="2020-07-11T13:35:22 CST" name="loginFail02" data-provider="getLoginFailDatas02" finished-at="2020-07-11T13:35:23 CST" duration-ms="625" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[158590192]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ab%12345]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[请输入正确的手机号]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFail02 -->
+        <test-method is-config="true" signature="tearDownTest()[pri:0, instance:com.lemon.testcase.LoginTest@7bde1f3a]" started-at="2020-07-11T13:35:23 CST" name="tearDownTest" finished-at="2020-07-11T13:35:23 CST" duration-ms="640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+        <test-method is-config="true" signature="setUpTest()[pri:0, instance:com.lemon.testcase.LoginTest@7bde1f3a]" started-at="2020-07-11T13:35:23 CST" name="setUpTest" finished-at="2020-07-11T13:35:36 CST" duration-ms="12290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method signature="loginFail02(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.lemon.testcase.LoginTest@7bde1f3a]" started-at="2020-07-11T13:35:36 CST" name="loginFail02" data-provider="getLoginFailDatas02" finished-at="2020-07-11T13:35:37 CST" duration-ms="896" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1585901929292]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ab%12345]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[请输入正确的手机号]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFail02 -->
+        <test-method is-config="true" signature="tearDownTest()[pri:0, instance:com.lemon.testcase.LoginTest@7bde1f3a]" started-at="2020-07-11T13:35:37 CST" name="tearDownTest" finished-at="2020-07-11T13:35:37 CST" duration-ms="900" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+        <test-method is-config="true" signature="setUpTest()[pri:0, instance:com.lemon.testcase.LoginTest@7bde1f3a]" started-at="2020-07-11T13:35:37 CST" name="setUpTest" finished-at="2020-07-11T13:35:49 CST" duration-ms="12037" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method signature="loginFail02(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.lemon.testcase.LoginTest@7bde1f3a]" started-at="2020-07-11T13:35:49 CST" name="loginFail02" data-provider="getLoginFailDatas02" finished-at="2020-07-11T13:35:50 CST" duration-ms="658" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1585901926%]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ab%12345]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[请输入正确的手机号]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFail02 -->
+        <test-method is-config="true" signature="tearDownTest()[pri:0, instance:com.lemon.testcase.LoginTest@7bde1f3a]" started-at="2020-07-11T13:35:50 CST" name="tearDownTest" finished-at="2020-07-11T13:35:51 CST" duration-ms="660" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+        <test-method is-config="true" signature="setUpTest()[pri:0, instance:com.lemon.testcase.LoginTest@7bde1f3a]" started-at="2020-07-11T13:35:51 CST" name="setUpTest" finished-at="2020-07-11T13:36:03 CST" duration-ms="12215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method signature="loginSuccess()[pri:0, instance:com.lemon.testcase.LoginTest@7bde1f3a]" started-at="2020-07-11T13:36:03 CST" name="loginSuccess" finished-at="2020-07-11T13:36:25 CST" duration-ms="22486" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginSuccess -->
+        <test-method is-config="true" signature="tearDownTest()[pri:0, instance:com.lemon.testcase.LoginTest@7bde1f3a]" started-at="2020-07-11T13:36:25 CST" name="tearDownTest" finished-at="2020-07-11T13:36:26 CST" duration-ms="681" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+        <test-method is-config="true" signature="setUpTest()[pri:0, instance:com.lemon.testcase.LoginTest@7bde1f3a]" started-at="2020-07-11T13:36:26 CST" name="setUpTest" finished-at="2020-07-11T13:36:39 CST" duration-ms="13240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method signature="rememberPhone()[pri:0, instance:com.lemon.testcase.LoginTest@7bde1f3a]" started-at="2020-07-11T13:36:39 CST" name="rememberPhone" finished-at="2020-07-11T13:37:26 CST" duration-ms="46808" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rememberPhone -->
+        <test-method is-config="true" signature="tearDownTest()[pri:0, instance:com.lemon.testcase.LoginTest@7bde1f3a]" started-at="2020-07-11T13:37:26 CST" name="tearDownTest" finished-at="2020-07-11T13:37:27 CST" duration-ms="762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+      </class> <!-- com.lemon.testcase.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

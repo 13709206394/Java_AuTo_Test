@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+
+	<!-- 监听器配置，让监听类生效 -->
+	<listeners>
+	
+	<!-- 监听用例的结果，用例失败截图 -->
+	<listener class-name="com.lemon.listener.AllureListener"></listener>
+	
+	<!-- 让用例失败重试机制生效 -->
+	<listener class-name="com.lemon.listener.RetryListener"></listener>
+	
+	<!-- 监听用例结果 -->
+	<listener class-name="com.lemon.listener.TestResultListener"></listener>
+	
+	</listeners>
+	
+	
+	
+	
+  <test name="Test">
+    <classes>
+      <class name="com.lemon.testcase.LoginTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,373 @@
+2020-07-11 09:46:21 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:46) - [ INFO ]----打开Chrome浏览器
+2020-07-11 09:46:25 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【13709206394】
+2020-07-11 09:46:26 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【lemon666】
+2020-07-11 09:46:26 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.name: remember_me】
+2020-07-11 09:46:27 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 09:46:29 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //a[text()='退出']】
+2020-07-11 09:47:11 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //a[text()='登录']】
+2020-07-11 09:47:12 method: com.lemon.common.BasePage.getElementValue(BasePage.java:108) - [ INFO ]----获取元素【By.name: phone】属性【value:】
+2020-07-11 09:47:21 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:46) - [ INFO ]----打开Chrome浏览器
+2020-07-11 09:47:25 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【15859019266】
+2020-07-11 09:47:26 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【123456】
+2020-07-11 09:47:26 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 09:47:27 method: com.lemon.common.BasePage.getElementText(BasePage.java:96) - [ INFO ]----获取元素【By.className: layui-layer-content】文本值【此账号没有经过授权，请联系管理员!】
+2020-07-11 09:47:35 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:46) - [ INFO ]----打开Chrome浏览器
+2020-07-11 09:47:40 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【13709206394】
+2020-07-11 09:47:40 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【LEMON666】
+2020-07-11 09:47:40 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 09:47:41 method: com.lemon.common.BasePage.getElementText(BasePage.java:96) - [ INFO ]----获取元素【By.className: layui-layer-content】文本值【帐号或密码错误!】
+2020-07-11 09:47:50 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:46) - [ INFO ]----打开Chrome浏览器
+2020-07-11 09:47:54 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【13709206394】
+2020-07-11 09:47:54 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【Ab%123467】
+2020-07-11 09:47:55 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 09:47:56 method: com.lemon.common.BasePage.getElementText(BasePage.java:96) - [ INFO ]----获取元素【By.className: layui-layer-content】文本值【帐号或密码错误!】
+2020-07-11 09:48:05 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:46) - [ INFO ]----打开Chrome浏览器
+2020-07-11 09:48:09 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【13709206394】
+2020-07-11 09:48:10 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【Ab%1234】
+2020-07-11 09:48:10 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 09:48:11 method: com.lemon.common.BasePage.getElementText(BasePage.java:96) - [ INFO ]----获取元素【By.className: layui-layer-content】文本值【帐号或密码错误!】
+2020-07-11 09:48:21 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:46) - [ INFO ]----打开Chrome浏览器
+2020-07-11 09:48:25 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【13709206394】
+2020-07-11 09:48:25 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【Ab%1 234】
+2020-07-11 09:48:25 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 09:48:26 method: com.lemon.common.BasePage.getElementText(BasePage.java:96) - [ INFO ]----获取元素【By.className: layui-layer-content】文本值【帐号或密码错误!】
+2020-07-11 09:48:36 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:46) - [ INFO ]----打开Chrome浏览器
+2020-07-11 09:48:40 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【】
+2020-07-11 09:48:40 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【Ab%12345】
+2020-07-11 09:48:41 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 09:48:41 method: com.lemon.common.BasePage.getElementText(BasePage.java:96) - [ INFO ]----获取元素【By.className: form-error-info】文本值【请输入手机号】
+2020-07-11 09:48:50 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:46) - [ INFO ]----打开Chrome浏览器
+2020-07-11 09:48:54 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【158590192】
+2020-07-11 09:48:55 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【Ab%12345】
+2020-07-11 09:48:55 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 09:48:56 method: com.lemon.common.BasePage.getElementText(BasePage.java:96) - [ INFO ]----获取元素【By.className: form-error-info】文本值【请输入正确的手机号】
+2020-07-11 09:49:05 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:46) - [ INFO ]----打开Chrome浏览器
+2020-07-11 09:49:09 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【1585901929292】
+2020-07-11 09:49:10 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【Ab%12345】
+2020-07-11 09:49:10 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 09:49:10 method: com.lemon.common.BasePage.getElementText(BasePage.java:96) - [ INFO ]----获取元素【By.className: form-error-info】文本值【请输入正确的手机号】
+2020-07-11 09:49:19 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:46) - [ INFO ]----打开Chrome浏览器
+2020-07-11 09:49:23 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【1585901926%】
+2020-07-11 09:49:24 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【Ab%12345】
+2020-07-11 09:49:24 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 09:49:24 method: com.lemon.common.BasePage.getElementText(BasePage.java:96) - [ INFO ]----获取元素【By.className: form-error-info】文本值【请输入正确的手机号】
+2020-07-11 09:49:33 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:46) - [ INFO ]----打开Chrome浏览器
+2020-07-11 09:49:37 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【13709206394】
+2020-07-11 09:49:37 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【lemon666】
+2020-07-11 09:49:37 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 09:49:59 method: com.lemon.common.BasePage.visibleElement(BasePage.java:120) - [ INFO ]----元素【By.xpath: //a[contains(text(),'As')]】是否可见:【true】
+2020-07-11 09:50:08 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:46) - [ INFO ]----打开Chrome浏览器
+2020-07-11 09:50:12 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【13709206394】
+2020-07-11 09:50:12 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【lemon666】
+2020-07-11 09:50:13 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 09:50:13 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //a[text()='退出']】
+2020-07-11 09:50:59 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //a[text()='登录']】
+2020-07-11 09:50:59 method: com.lemon.common.BasePage.getElementValue(BasePage.java:108) - [ INFO ]----获取元素【By.name: phone】属性【value:13709206394】
+2020-07-11 11:05:13 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:46) - [ INFO ]----打开Chrome浏览器
+2020-07-11 11:05:18 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【13709206394】
+2020-07-11 11:05:18 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【lemon666】
+2020-07-11 11:05:19 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.name: remember_me】
+2020-07-11 11:05:19 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 11:05:21 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //a[text()='退出']】
+2020-07-11 11:06:03 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //a[text()='登录']】
+2020-07-11 11:06:04 method: com.lemon.common.BasePage.getElementValue(BasePage.java:108) - [ INFO ]----获取元素【By.name: phone】属性【value:】
+2020-07-11 11:06:04 method: com.lemon.listener.TestResultListener.onTestSuccess(TestResultListener.java:19) - [ INFO ]----当前用例执行成功
+2020-07-11 11:06:12 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:46) - [ INFO ]----打开Chrome浏览器
+2020-07-11 11:06:17 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【15859019266】
+2020-07-11 11:06:17 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【123456】
+2020-07-11 11:06:17 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 11:06:18 method: com.lemon.common.BasePage.getElementText(BasePage.java:96) - [ INFO ]----获取元素【By.className: layui-layer-content】文本值【此账号没有经过授权，请联系管理员!】
+2020-07-11 11:06:18 method: com.lemon.listener.TestResultListener.onTestSuccess(TestResultListener.java:19) - [ INFO ]----当前用例执行成功
+2020-07-11 11:06:27 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:46) - [ INFO ]----打开Chrome浏览器
+2020-07-11 11:06:31 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【13709206394】
+2020-07-11 11:06:31 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【LEMON666】
+2020-07-11 11:06:31 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 11:06:32 method: com.lemon.common.BasePage.getElementText(BasePage.java:96) - [ INFO ]----获取元素【By.className: layui-layer-content】文本值【帐号或密码错误!】
+2020-07-11 11:06:32 method: com.lemon.listener.TestResultListener.onTestSuccess(TestResultListener.java:19) - [ INFO ]----当前用例执行成功
+2020-07-11 11:06:41 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:46) - [ INFO ]----打开Chrome浏览器
+2020-07-11 11:06:45 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【13709206394】
+2020-07-11 11:06:46 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【Ab%123467】
+2020-07-11 11:06:46 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 11:06:47 method: com.lemon.common.BasePage.getElementText(BasePage.java:96) - [ INFO ]----获取元素【By.className: layui-layer-content】文本值【帐号或密码错误!】
+2020-07-11 11:06:47 method: com.lemon.listener.TestResultListener.onTestSuccess(TestResultListener.java:19) - [ INFO ]----当前用例执行成功
+2020-07-11 11:06:56 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:46) - [ INFO ]----打开Chrome浏览器
+2020-07-11 11:07:00 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【13709206394】
+2020-07-11 11:07:00 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【Ab%1234】
+2020-07-11 11:07:01 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 11:07:01 method: com.lemon.common.BasePage.getElementText(BasePage.java:96) - [ INFO ]----获取元素【By.className: layui-layer-content】文本值【帐号或密码错误!】
+2020-07-11 11:07:01 method: com.lemon.listener.TestResultListener.onTestSuccess(TestResultListener.java:19) - [ INFO ]----当前用例执行成功
+2020-07-11 11:07:10 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:46) - [ INFO ]----打开Chrome浏览器
+2020-07-11 11:07:14 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【13709206394】
+2020-07-11 11:07:14 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【Ab%1 234】
+2020-07-11 11:07:14 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 11:07:15 method: com.lemon.common.BasePage.getElementText(BasePage.java:96) - [ INFO ]----获取元素【By.className: layui-layer-content】文本值【帐号或密码错误!】
+2020-07-11 11:07:15 method: com.lemon.listener.TestResultListener.onTestSuccess(TestResultListener.java:19) - [ INFO ]----当前用例执行成功
+2020-07-11 11:07:24 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:46) - [ INFO ]----打开Chrome浏览器
+2020-07-11 11:07:28 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【】
+2020-07-11 11:07:28 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【Ab%12345】
+2020-07-11 11:07:28 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 11:07:29 method: com.lemon.common.BasePage.getElementText(BasePage.java:96) - [ INFO ]----获取元素【By.className: form-error-info】文本值【请输入手机号】
+2020-07-11 11:07:29 method: com.lemon.listener.TestResultListener.onTestSuccess(TestResultListener.java:19) - [ INFO ]----当前用例执行成功
+2020-07-11 11:07:38 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:46) - [ INFO ]----打开Chrome浏览器
+2020-07-11 11:07:42 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【158590192】
+2020-07-11 11:07:42 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【Ab%12345】
+2020-07-11 11:07:42 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 11:07:43 method: com.lemon.common.BasePage.getElementText(BasePage.java:96) - [ INFO ]----获取元素【By.className: form-error-info】文本值【请输入正确的手机号】
+2020-07-11 11:07:43 method: com.lemon.listener.TestResultListener.onTestSuccess(TestResultListener.java:19) - [ INFO ]----当前用例执行成功
+2020-07-11 11:07:51 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:46) - [ INFO ]----打开Chrome浏览器
+2020-07-11 11:07:55 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【1585901929292】
+2020-07-11 11:07:56 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【Ab%12345】
+2020-07-11 11:07:56 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 11:07:56 method: com.lemon.common.BasePage.getElementText(BasePage.java:96) - [ INFO ]----获取元素【By.className: form-error-info】文本值【请输入正确的手机号】
+2020-07-11 11:07:56 method: com.lemon.listener.TestResultListener.onTestSuccess(TestResultListener.java:19) - [ INFO ]----当前用例执行成功
+2020-07-11 11:08:05 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:46) - [ INFO ]----打开Chrome浏览器
+2020-07-11 11:08:09 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【1585901926%】
+2020-07-11 11:08:10 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【Ab%12345】
+2020-07-11 11:08:10 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 11:08:10 method: com.lemon.common.BasePage.getElementText(BasePage.java:96) - [ INFO ]----获取元素【By.className: form-error-info】文本值【请输入正确的手机号】
+2020-07-11 11:08:10 method: com.lemon.listener.TestResultListener.onTestSuccess(TestResultListener.java:19) - [ INFO ]----当前用例执行成功
+2020-07-11 11:08:19 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:46) - [ INFO ]----打开Chrome浏览器
+2020-07-11 11:08:23 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【13709206394】
+2020-07-11 11:08:23 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【lemon666】
+2020-07-11 11:08:24 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 11:08:46 method: com.lemon.common.BasePage.visibleElement(BasePage.java:120) - [ INFO ]----元素【By.xpath: //a[contains(text(),'As')]】是否可见:【true】
+2020-07-11 11:08:46 method: com.lemon.listener.TestResultListener.onTestSuccess(TestResultListener.java:19) - [ INFO ]----当前用例执行成功
+2020-07-11 11:08:55 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:46) - [ INFO ]----打开Chrome浏览器
+2020-07-11 11:08:59 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【13709206394】
+2020-07-11 11:08:59 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【lemon666】
+2020-07-11 11:09:00 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 11:09:00 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //a[text()='退出']】
+2020-07-11 11:09:50 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //a[text()='登录']】
+2020-07-11 11:09:56 method: com.lemon.common.BasePage.getElementValue(BasePage.java:108) - [ INFO ]----获取元素【By.name: phone】属性【value:13709206394】
+2020-07-11 11:09:56 method: com.lemon.listener.TestResultListener.onTestSuccess(TestResultListener.java:19) - [ INFO ]----当前用例执行成功
+2020-07-11 13:32:24 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:50) - [ INFO ]----打开Chrome浏览器
+2020-07-11 13:32:29 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【13709206394】
+2020-07-11 13:32:30 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【lemon666】
+2020-07-11 13:32:30 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.name: remember_me】
+2020-07-11 13:32:30 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 13:32:33 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //a[text()='退出']】
+2020-07-11 13:33:14 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //a[text()='登录']】
+2020-07-11 13:33:15 method: com.lemon.common.BasePage.getElementValue(BasePage.java:108) - [ INFO ]----获取元素【By.name: phone】属性【value:】
+2020-07-11 13:33:15 method: com.lemon.listener.TestResultListener.onTestSuccess(TestResultListener.java:19) - [ INFO ]----当前用例执行成功
+2020-07-11 13:33:24 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:50) - [ INFO ]----打开Chrome浏览器
+2020-07-11 13:33:28 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【15859019266】
+2020-07-11 13:33:28 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【123456】
+2020-07-11 13:33:29 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 13:33:29 method: com.lemon.common.BasePage.getElementText(BasePage.java:96) - [ INFO ]----获取元素【By.className: layui-layer-content】文本值【此账号没有经过授权，请联系管理员!】
+2020-07-11 13:33:29 method: com.lemon.listener.TestResultListener.onTestSuccess(TestResultListener.java:19) - [ INFO ]----当前用例执行成功
+2020-07-11 13:33:40 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:50) - [ INFO ]----打开Chrome浏览器
+2020-07-11 13:33:44 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【13709206394】
+2020-07-11 13:33:45 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【LEMON666】
+2020-07-11 13:33:45 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 13:33:46 method: com.lemon.common.BasePage.getElementText(BasePage.java:96) - [ INFO ]----获取元素【By.className: layui-layer-content】文本值【帐号或密码错误!】
+2020-07-11 13:33:46 method: com.lemon.listener.TestResultListener.onTestSuccess(TestResultListener.java:19) - [ INFO ]----当前用例执行成功
+2020-07-11 13:34:10 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:50) - [ INFO ]----打开Chrome浏览器
+2020-07-11 13:34:14 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【13709206394】
+2020-07-11 13:34:14 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【Ab%123467】
+2020-07-11 13:34:14 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 13:34:15 method: com.lemon.common.BasePage.getElementText(BasePage.java:96) - [ INFO ]----获取元素【By.className: layui-layer-content】文本值【帐号或密码错误!】
+2020-07-11 13:34:15 method: com.lemon.listener.TestResultListener.onTestSuccess(TestResultListener.java:19) - [ INFO ]----当前用例执行成功
+2020-07-11 13:34:24 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:50) - [ INFO ]----打开Chrome浏览器
+2020-07-11 13:34:28 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【13709206394】
+2020-07-11 13:34:28 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【Ab%1234】
+2020-07-11 13:34:29 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 13:34:29 method: com.lemon.common.BasePage.getElementText(BasePage.java:96) - [ INFO ]----获取元素【By.className: layui-layer-content】文本值【帐号或密码错误!】
+2020-07-11 13:34:29 method: com.lemon.listener.TestResultListener.onTestSuccess(TestResultListener.java:19) - [ INFO ]----当前用例执行成功
+2020-07-11 13:34:39 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:50) - [ INFO ]----打开Chrome浏览器
+2020-07-11 13:34:43 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【13709206394】
+2020-07-11 13:34:43 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【Ab%1 234】
+2020-07-11 13:34:43 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 13:34:44 method: com.lemon.common.BasePage.getElementText(BasePage.java:96) - [ INFO ]----获取元素【By.className: layui-layer-content】文本值【帐号或密码错误!】
+2020-07-11 13:34:44 method: com.lemon.listener.TestResultListener.onTestSuccess(TestResultListener.java:19) - [ INFO ]----当前用例执行成功
+2020-07-11 13:34:57 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:50) - [ INFO ]----打开Chrome浏览器
+2020-07-11 13:35:01 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【】
+2020-07-11 13:35:01 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【Ab%12345】
+2020-07-11 13:35:01 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 13:35:02 method: com.lemon.common.BasePage.getElementText(BasePage.java:96) - [ INFO ]----获取元素【By.className: form-error-info】文本值【请输入手机号】
+2020-07-11 13:35:02 method: com.lemon.listener.TestResultListener.onTestSuccess(TestResultListener.java:19) - [ INFO ]----当前用例执行成功
+2020-07-11 13:35:18 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:50) - [ INFO ]----打开Chrome浏览器
+2020-07-11 13:35:22 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【158590192】
+2020-07-11 13:35:22 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【Ab%12345】
+2020-07-11 13:35:22 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 13:35:23 method: com.lemon.common.BasePage.getElementText(BasePage.java:96) - [ INFO ]----获取元素【By.className: form-error-info】文本值【请输入正确的手机号】
+2020-07-11 13:35:23 method: com.lemon.listener.TestResultListener.onTestSuccess(TestResultListener.java:19) - [ INFO ]----当前用例执行成功
+2020-07-11 13:35:31 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:50) - [ INFO ]----打开Chrome浏览器
+2020-07-11 13:35:36 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【1585901929292】
+2020-07-11 13:35:36 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【Ab%12345】
+2020-07-11 13:35:36 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 13:35:37 method: com.lemon.common.BasePage.getElementText(BasePage.java:96) - [ INFO ]----获取元素【By.className: form-error-info】文本值【请输入正确的手机号】
+2020-07-11 13:35:37 method: com.lemon.listener.TestResultListener.onTestSuccess(TestResultListener.java:19) - [ INFO ]----当前用例执行成功
+2020-07-11 13:35:45 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:50) - [ INFO ]----打开Chrome浏览器
+2020-07-11 13:35:49 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【1585901926%】
+2020-07-11 13:35:50 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【Ab%12345】
+2020-07-11 13:35:50 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 13:35:50 method: com.lemon.common.BasePage.getElementText(BasePage.java:96) - [ INFO ]----获取元素【By.className: form-error-info】文本值【请输入正确的手机号】
+2020-07-11 13:35:50 method: com.lemon.listener.TestResultListener.onTestSuccess(TestResultListener.java:19) - [ INFO ]----当前用例执行成功
+2020-07-11 13:35:59 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:50) - [ INFO ]----打开Chrome浏览器
+2020-07-11 13:36:03 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【13709206394】
+2020-07-11 13:36:03 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【lemon666】
+2020-07-11 13:36:03 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 13:36:25 method: com.lemon.common.BasePage.visibleElement(BasePage.java:120) - [ INFO ]----元素【By.xpath: //a[contains(text(),'As')]】是否可见:【true】
+2020-07-11 13:36:25 method: com.lemon.listener.TestResultListener.onTestSuccess(TestResultListener.java:19) - [ INFO ]----当前用例执行成功
+2020-07-11 13:36:35 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:50) - [ INFO ]----打开Chrome浏览器
+2020-07-11 13:36:39 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【13709206394】
+2020-07-11 13:36:40 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【lemon666】
+2020-07-11 13:36:40 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 13:36:40 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //a[text()='退出']】
+2020-07-11 13:37:25 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //a[text()='登录']】
+2020-07-11 13:37:26 method: com.lemon.common.BasePage.getElementValue(BasePage.java:108) - [ INFO ]----获取元素【By.name: phone】属性【value:13709206394】
+2020-07-11 13:37:26 method: com.lemon.listener.TestResultListener.onTestSuccess(TestResultListener.java:19) - [ INFO ]----当前用例执行成功
+2020-07-11 13:38:29 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:50) - [ INFO ]----打开Chrome浏览器
+2020-07-11 13:38:33 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【13709206394】
+2020-07-11 13:38:33 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【lemon666】
+2020-07-11 13:38:33 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.name: remember_me】
+2020-07-11 13:38:34 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 13:38:36 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //a[text()='退出']】
+2020-07-11 13:39:18 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //a[text()='登录']】
+2020-07-11 13:39:18 method: com.lemon.common.BasePage.getElementValue(BasePage.java:108) - [ INFO ]----获取元素【By.name: phone】属性【value:】
+2020-07-11 13:39:18 method: com.lemon.listener.TestResultListener.onTestSuccess(TestResultListener.java:19) - [ INFO ]----当前用例执行成功
+2020-07-11 13:39:27 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:50) - [ INFO ]----打开Chrome浏览器
+2020-07-11 13:39:31 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【15859019266】
+2020-07-11 13:39:31 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【123456】
+2020-07-11 13:39:31 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 13:39:32 method: com.lemon.common.BasePage.getElementText(BasePage.java:96) - [ INFO ]----获取元素【By.className: layui-layer-content】文本值【此账号没有经过授权，请联系管理员!】
+2020-07-11 13:39:32 method: com.lemon.listener.TestResultListener.onTestSuccess(TestResultListener.java:19) - [ INFO ]----当前用例执行成功
+2020-07-11 13:39:40 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:50) - [ INFO ]----打开Chrome浏览器
+2020-07-11 13:39:44 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【13709206394】
+2020-07-11 13:39:44 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【LEMON666】
+2020-07-11 13:39:44 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 13:39:45 method: com.lemon.common.BasePage.getElementText(BasePage.java:96) - [ INFO ]----获取元素【By.className: layui-layer-content】文本值【帐号或密码错误!】
+2020-07-11 13:39:45 method: com.lemon.listener.TestResultListener.onTestSuccess(TestResultListener.java:19) - [ INFO ]----当前用例执行成功
+2020-07-11 13:39:53 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:50) - [ INFO ]----打开Chrome浏览器
+2020-07-11 13:39:57 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【13709206394】
+2020-07-11 13:39:58 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【Ab%123467】
+2020-07-11 13:39:58 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 13:39:59 method: com.lemon.common.BasePage.getElementText(BasePage.java:96) - [ INFO ]----获取元素【By.className: layui-layer-content】文本值【帐号或密码错误!】
+2020-07-11 13:39:59 method: com.lemon.listener.TestResultListener.onTestSuccess(TestResultListener.java:19) - [ INFO ]----当前用例执行成功
+2020-07-11 13:40:07 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:50) - [ INFO ]----打开Chrome浏览器
+2020-07-11 13:40:11 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【13709206394】
+2020-07-11 13:40:12 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【Ab%1234】
+2020-07-11 13:40:12 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 13:40:13 method: com.lemon.common.BasePage.getElementText(BasePage.java:96) - [ INFO ]----获取元素【By.className: layui-layer-content】文本值【帐号或密码错误!】
+2020-07-11 13:40:13 method: com.lemon.listener.TestResultListener.onTestSuccess(TestResultListener.java:19) - [ INFO ]----当前用例执行成功
+2020-07-11 13:40:20 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:50) - [ INFO ]----打开Chrome浏览器
+2020-07-11 13:40:25 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【13709206394】
+2020-07-11 13:40:25 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【Ab%1 234】
+2020-07-11 13:40:25 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 13:40:26 method: com.lemon.common.BasePage.getElementText(BasePage.java:96) - [ INFO ]----获取元素【By.className: layui-layer-content】文本值【帐号或密码错误!】
+2020-07-11 13:40:26 method: com.lemon.listener.TestResultListener.onTestSuccess(TestResultListener.java:19) - [ INFO ]----当前用例执行成功
+2020-07-11 13:40:34 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:50) - [ INFO ]----打开Chrome浏览器
+2020-07-11 13:40:38 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【】
+2020-07-11 13:40:38 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【Ab%12345】
+2020-07-11 13:40:38 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 13:40:38 method: com.lemon.common.BasePage.getElementText(BasePage.java:96) - [ INFO ]----获取元素【By.className: form-error-info】文本值【请输入手机号】
+2020-07-11 13:40:38 method: com.lemon.listener.TestResultListener.onTestSuccess(TestResultListener.java:19) - [ INFO ]----当前用例执行成功
+2020-07-11 13:40:47 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:50) - [ INFO ]----打开Chrome浏览器
+2020-07-11 13:40:51 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【158590192】
+2020-07-11 13:40:51 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【Ab%12345】
+2020-07-11 13:40:51 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 13:40:52 method: com.lemon.common.BasePage.getElementText(BasePage.java:96) - [ INFO ]----获取元素【By.className: form-error-info】文本值【请输入正确的手机号】
+2020-07-11 13:40:52 method: com.lemon.listener.TestResultListener.onTestSuccess(TestResultListener.java:19) - [ INFO ]----当前用例执行成功
+2020-07-11 13:41:00 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:50) - [ INFO ]----打开Chrome浏览器
+2020-07-11 13:41:05 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【1585901929292】
+2020-07-11 13:41:05 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【Ab%12345】
+2020-07-11 13:41:05 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 13:41:05 method: com.lemon.common.BasePage.getElementText(BasePage.java:96) - [ INFO ]----获取元素【By.className: form-error-info】文本值【请输入正确的手机号】
+2020-07-11 13:41:05 method: com.lemon.listener.TestResultListener.onTestSuccess(TestResultListener.java:19) - [ INFO ]----当前用例执行成功
+2020-07-11 13:41:13 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:50) - [ INFO ]----打开Chrome浏览器
+2020-07-11 13:41:17 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【1585901926%】
+2020-07-11 13:41:17 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【Ab%12345】
+2020-07-11 13:41:17 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 13:41:18 method: com.lemon.common.BasePage.getElementText(BasePage.java:96) - [ INFO ]----获取元素【By.className: form-error-info】文本值【请输入正确的手机号】
+2020-07-11 13:41:18 method: com.lemon.listener.TestResultListener.onTestSuccess(TestResultListener.java:19) - [ INFO ]----当前用例执行成功
+2020-07-11 13:41:26 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:50) - [ INFO ]----打开Chrome浏览器
+2020-07-11 13:41:30 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【13709206394】
+2020-07-11 13:41:30 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【lemon666】
+2020-07-11 13:41:30 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 13:41:52 method: com.lemon.common.BasePage.visibleElement(BasePage.java:120) - [ INFO ]----元素【By.xpath: //a[contains(text(),'As')]】是否可见:【true】
+2020-07-11 13:41:52 method: com.lemon.listener.TestResultListener.onTestSuccess(TestResultListener.java:19) - [ INFO ]----当前用例执行成功
+2020-07-11 13:42:00 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:50) - [ INFO ]----打开Chrome浏览器
+2020-07-11 13:42:05 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【13709206394】
+2020-07-11 13:42:05 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【lemon666】
+2020-07-11 13:42:05 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 13:42:05 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //a[text()='退出']】
+2020-07-11 13:42:50 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //a[text()='登录']】
+2020-07-11 13:42:51 method: com.lemon.common.BasePage.getElementValue(BasePage.java:108) - [ INFO ]----获取元素【By.name: phone】属性【value:13709206394】
+2020-07-11 13:42:51 method: com.lemon.listener.TestResultListener.onTestSuccess(TestResultListener.java:19) - [ INFO ]----当前用例执行成功
+2020-07-11 13:47:29 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:50) - [ INFO ]----打开Chrome浏览器
+2020-07-11 13:47:34 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【13709206394】
+2020-07-11 13:47:34 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【lemon666】
+2020-07-11 13:47:34 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.name: remember_me】
+2020-07-11 13:47:34 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 13:47:36 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //a[text()='退出']】
+2020-07-11 13:48:18 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //a[text()='登录']】
+2020-07-11 13:48:19 method: com.lemon.common.BasePage.getElementValue(BasePage.java:108) - [ INFO ]----获取元素【By.name: phone】属性【value:】
+2020-07-11 13:48:19 method: com.lemon.listener.TestResultListener.onTestSuccess(TestResultListener.java:19) - [ INFO ]----当前用例执行成功
+2020-07-11 13:48:30 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:50) - [ INFO ]----打开Chrome浏览器
+2020-07-11 13:48:35 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【15859019266】
+2020-07-11 13:48:35 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【123456】
+2020-07-11 13:48:35 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 13:48:36 method: com.lemon.common.BasePage.getElementText(BasePage.java:96) - [ INFO ]----获取元素【By.className: layui-layer-content】文本值【此账号没有经过授权，请联系管理员!】
+2020-07-11 13:48:36 method: com.lemon.listener.TestResultListener.onTestSuccess(TestResultListener.java:19) - [ INFO ]----当前用例执行成功
+2020-07-11 13:48:44 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:50) - [ INFO ]----打开Chrome浏览器
+2020-07-11 13:48:48 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【13709206394】
+2020-07-11 13:48:48 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【LEMON666】
+2020-07-11 13:48:49 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 13:48:49 method: com.lemon.common.BasePage.getElementText(BasePage.java:96) - [ INFO ]----获取元素【By.className: layui-layer-content】文本值【帐号或密码错误!】
+2020-07-11 13:48:49 method: com.lemon.listener.TestResultListener.onTestSuccess(TestResultListener.java:19) - [ INFO ]----当前用例执行成功
+2020-07-11 13:48:58 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:50) - [ INFO ]----打开Chrome浏览器
+2020-07-11 13:49:02 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【13709206394】
+2020-07-11 13:49:02 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【Ab%123467】
+2020-07-11 13:49:02 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 13:49:03 method: com.lemon.common.BasePage.getElementText(BasePage.java:96) - [ INFO ]----获取元素【By.className: layui-layer-content】文本值【帐号或密码错误!】
+2020-07-11 13:49:03 method: com.lemon.listener.TestResultListener.onTestSuccess(TestResultListener.java:19) - [ INFO ]----当前用例执行成功
+2020-07-11 13:49:11 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:50) - [ INFO ]----打开Chrome浏览器
+2020-07-11 13:49:15 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【13709206394】
+2020-07-11 13:49:15 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【Ab%1234】
+2020-07-11 13:49:16 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 13:49:17 method: com.lemon.common.BasePage.getElementText(BasePage.java:96) - [ INFO ]----获取元素【By.className: layui-layer-content】文本值【帐号或密码错误!】
+2020-07-11 13:49:17 method: com.lemon.listener.TestResultListener.onTestSuccess(TestResultListener.java:19) - [ INFO ]----当前用例执行成功
+2020-07-11 13:49:25 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:50) - [ INFO ]----打开Chrome浏览器
+2020-07-11 13:49:29 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【13709206394】
+2020-07-11 13:49:29 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【Ab%1 234】
+2020-07-11 13:49:30 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 13:49:30 method: com.lemon.common.BasePage.getElementText(BasePage.java:96) - [ INFO ]----获取元素【By.className: layui-layer-content】文本值【帐号或密码错误!】
+2020-07-11 13:49:30 method: com.lemon.listener.TestResultListener.onTestSuccess(TestResultListener.java:19) - [ INFO ]----当前用例执行成功
+2020-07-11 13:49:38 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:50) - [ INFO ]----打开Chrome浏览器
+2020-07-11 13:49:43 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【】
+2020-07-11 13:49:43 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【Ab%12345】
+2020-07-11 13:49:43 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 13:49:43 method: com.lemon.common.BasePage.getElementText(BasePage.java:96) - [ INFO ]----获取元素【By.className: form-error-info】文本值【请输入手机号】
+2020-07-11 13:49:43 method: com.lemon.listener.TestResultListener.onTestSuccess(TestResultListener.java:19) - [ INFO ]----当前用例执行成功
+2020-07-11 13:49:51 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:50) - [ INFO ]----打开Chrome浏览器
+2020-07-11 13:49:56 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【158590192】
+2020-07-11 13:49:56 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【Ab%12345】
+2020-07-11 13:49:56 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 13:49:56 method: com.lemon.common.BasePage.getElementText(BasePage.java:96) - [ INFO ]----获取元素【By.className: form-error-info】文本值【请输入正确的手机号】
+2020-07-11 13:49:56 method: com.lemon.listener.TestResultListener.onTestSuccess(TestResultListener.java:19) - [ INFO ]----当前用例执行成功
+2020-07-11 13:50:04 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:50) - [ INFO ]----打开Chrome浏览器
+2020-07-11 13:50:09 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【1585901929292】
+2020-07-11 13:50:09 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【Ab%12345】
+2020-07-11 13:50:09 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 13:50:09 method: com.lemon.common.BasePage.getElementText(BasePage.java:96) - [ INFO ]----获取元素【By.className: form-error-info】文本值【请输入正确的手机号】
+2020-07-11 13:50:09 method: com.lemon.listener.TestResultListener.onTestSuccess(TestResultListener.java:19) - [ INFO ]----当前用例执行成功
+2020-07-11 13:50:17 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:50) - [ INFO ]----打开Chrome浏览器
+2020-07-11 13:50:21 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【1585901926%】
+2020-07-11 13:50:22 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【Ab%12345】
+2020-07-11 13:50:22 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 13:50:22 method: com.lemon.common.BasePage.getElementText(BasePage.java:96) - [ INFO ]----获取元素【By.className: form-error-info】文本值【请输入正确的手机号】
+2020-07-11 13:50:22 method: com.lemon.listener.TestResultListener.onTestSuccess(TestResultListener.java:19) - [ INFO ]----当前用例执行成功
+2020-07-11 13:50:31 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:50) - [ INFO ]----打开Chrome浏览器
+2020-07-11 13:50:35 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【13709206394】
+2020-07-11 13:50:35 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【lemon666】
+2020-07-11 13:50:35 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 13:50:58 method: com.lemon.common.BasePage.visibleElement(BasePage.java:120) - [ INFO ]----元素【By.xpath: //a[contains(text(),'As')]】是否可见:【true】
+2020-07-11 13:50:58 method: com.lemon.listener.TestResultListener.onTestSuccess(TestResultListener.java:19) - [ INFO ]----当前用例执行成功
+2020-07-11 13:51:05 method: com.lemon.common.BaseTest.OpenBrower(BaseTest.java:50) - [ INFO ]----打开Chrome浏览器
+2020-07-11 13:51:10 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: phone】输入数据【13709206394】
+2020-07-11 13:51:10 method: com.lemon.common.BasePage.type(BasePage.java:66) - [ INFO ]----给元素【By.name: password】输入数据【lemon666】
+2020-07-11 13:51:10 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //button[text()='登录']】
+2020-07-11 13:51:10 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //a[text()='退出']】
+2020-07-11 13:51:56 method: com.lemon.common.BasePage.clickElement(BasePage.java:85) - [ INFO ]----点击元素【By.xpath: //a[text()='登录']】
+2020-07-11 13:51:56 method: com.lemon.common.BasePage.getElementValue(BasePage.java:108) - [ INFO ]----获取元素【By.name: phone】属性【value:13709206394】
+2020-07-11 13:51:56 method: com.lemon.listener.TestResultListener.onTestSuccess(TestResultListener.java:19) - [ INFO ]----当前用例执行成功

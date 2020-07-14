@@ -1,0 +1,17 @@
+D:\code\java18\web_auto_test01\src\test\java\com\lemon\pageobject\IndexPage.java
+D:\code\java18\web_auto_test01\src\test\java\com\lemon\common\BaseTest.java
+D:\code\java18\web_auto_test01\src\test\java\com\lemon\utils\MysqlUtil.java
+D:\code\java18\web_auto_test01\src\test\java\com\lemon\testcase\ScreenshotTest.java
+D:\code\java18\web_auto_test01\src\test\java\com\lemon\listener\AllureListener.java
+D:\code\java18\web_auto_test01\src\test\java\com\lemon\listener\TestResultListener.java
+D:\code\java18\web_auto_test01\src\test\java\com\lemon\pageobject\LoginPage.java
+D:\code\java18\web_auto_test01\src\test\java\com\lemon\pageobject\BackstageLoginPage.java
+D:\code\java18\web_auto_test01\src\test\java\com\lemon\testcase\InvestTest.java
+D:\code\java18\web_auto_test01\src\test\java\com\lemon\common\BasePage.java
+D:\code\java18\web_auto_test01\src\test\java\com\lemon\listener\RetryListener.java
+D:\code\java18\web_auto_test01\src\test\java\com\lemon\pageobject\LoanDetailPage.java
+D:\code\java18\web_auto_test01\src\test\java\com\lemon\testcase\LoginTest.java
+D:\code\java18\web_auto_test01\src\test\java\com\lemon\utils\Constant.java
+D:\code\java18\web_auto_test01\src\test\java\com\lemon\listener\TestngRetry.java
+D:\code\java18\web_auto_test01\src\test\java\com\lemon\utils\ApiUtil.java
+D:\code\java18\web_auto_test01\src\test\java\com\lemon\pageobject\BackstageIndexPage.java
